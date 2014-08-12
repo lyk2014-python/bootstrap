@@ -8,6 +8,6 @@ Usage
 
     git clone https://github.com/lyk2014-python/bootstrap.git
     cd bootstrap
-    chmod +x bootstrap
-    ./bootstrap
+    chmod +x bootstrap.sh
+    ./bootstrap.sh
     
