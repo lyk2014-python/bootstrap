@@ -60,10 +60,10 @@ install_env(){
 	update_system
 	upgrade_system
 	
-	install_from $APT_INSTALL $MAKE_R
-	install_from $APT_INSTALL $BASIC_R
-	install_from $APT_INSTALL $PYTHON_R
-	install_from $PIP_INSTALL $PIP_R
+	install_from "$APT_INSTALL" $MAKE_R
+	install_from "$APT_INSTALL" $BASIC_R
+	install_from "$APT_INSTALL" $PYTHON_R
+	install_from "$PIP_INSTALL" $PIP_R
 
 	upgrade_system
 	force_system
