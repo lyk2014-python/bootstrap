@@ -1,0 +1,12 @@
+build-essential
+git-core 
+wget
+curl
+libsqlite3-dev
+libreadline-dev
+libbz2-dev
+zlib1g-dev
+openssl
+libssl-dev 
+build-dep 
+libxml2-dev
