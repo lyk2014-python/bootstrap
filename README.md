@@ -11,3 +11,7 @@ Usage
     chmod +x bootstrap.sh
     ./bootstrap.sh
     
+Debugging
+==========
+
+    bash -x bootstrap.sh
