@@ -1,0 +1,9 @@
+python-dev
+libpq-dev
+libzmq-dev
+python-setuptools
+markdown 
+python-pip
+python-virtualenv
+python-libxml2
+ipython
