@@ -1,3 +1,4 @@
 setuptools
 pep8
 nose
+django
